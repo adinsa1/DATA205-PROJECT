@@ -1,0 +1,73 @@
+"population","pop2024","pop2023","pop2022","pop2020","pop2010","growth","region","city","usps","state","countyFips","county","densityMi","slug","areaMi","lng","lat","type","rank"
+90846,90846,90528,90210,89529,86395,0.00351,"Central","Germantown","MD","Maryland","24031","Montgomery County",5334,"maryland/germantown",17.033,-77.2638,39.1743,"CDP",1
+83534,83534,82671,81808,81069,71452,0.01044,"Central","Silver Spring","MD","Maryland","24031|24033","Montgomery County",10597,"maryland/silver-spring",7.883,-77.0208,39.0024,"CDP",2
+69589,69589,69563,68984,69484,60178,0.00037,"Central","Gaithersburg","MD","Maryland","24031","Montgomery County",6742,"maryland/gaithersburg",10.321,-77.1951,39.1486,"City",3
+67284,67284,67297,66947,67334,61542,-0.00019,"Central","Rockville","MD","Maryland","24031","Montgomery County",4959,"maryland/rockville",13.567,-77.1556,39.0837,"City",4
+67226,67226,66771,66316,65092,60858,0.00681,"Central","Bethesda","MD","Maryland","24031","Montgomery County",5069,"maryland/bethesda",13.262,-77.1186,38.9873,"CDP",5
+55179,55179,54721,54262,53869,48759,0.00837,"Central","Aspen Hill","MD","Maryland","24031","Montgomery County",5805,"maryland/aspen-hill",9.505,-77.082,39.0936,"CDP",6
+53524,53524,53149,52775,51191,48284,0.00706,"Central","Wheaton","MD","Maryland","24031","Montgomery County",7759,"maryland/wheaton",6.898,-77.0582,39.0495,"CDP",7
+50752,50752,50258,49763,49719,43828,0.00983,"Central","North Bethesda","MD","Maryland","24031","Montgomery County",5715,"maryland/north-bethesda",8.88,-77.1203,39.0368,"CDP",8
+46755,46755,46627,46499,46256,44965,0.00275,"Central","Potomac","MD","Maryland","24031","Montgomery County",1858,"maryland/potomac",25.165,-77.1936,39.0133,"CDP",9
+36307,36307,36108,35908,34230,33513,0.00551,"Central","Chillum","MD","Maryland","24033|24031","Prince George's County",10754,"maryland/chillum",3.376,-76.9789,38.9667,"CDP",10
+35802,35802,35662,35522,35350,33844,0.00393,"Central","Olney","MD","Maryland","24031|24027","Montgomery County",2212,"maryland/olney",16.182,-77.0714,39.1443,"CDP",11
+35201,35201,34974,34748,34413,32032,0.00649,"Central","Montgomery Village","MD","Maryland","24031","Montgomery County",9068,"maryland/montgomery-village",3.882,-77.2051,39.1885,"CDP",12
+30766,30766,29551,28337,26234,13766,0.04112,"Central","Clarksburg","MD","Maryland","24031|24021","Montgomery County",3189,"maryland/clarksburg",9.649,-77.2661,39.2229,"CDP",13
+30328,30328,30342,30357,30550,30531,-0.00046,"Central","Eldersburg","MD","Maryland","24013|24005|24027|24031","Carroll County",762,"maryland/eldersburg",39.814,-76.9526,39.4042,"CDP",14
+29205,29205,29400,29353,29983,24994,-0.00663,"Central","Laurel","MD","Maryland","24031|24033","Montgomery County",6070,"maryland/laurel",4.811,-76.8612,39.0951,"City",15
+28813,28813,28620,28427,27593,26112,0.00674,"Central","South Laurel","MD","Maryland","24031|24033","Montgomery County",3569,"maryland/south-laurel",8.072,-76.8462,39.0615,"CDP",16
+26371,26371,26179,25987,25649,23681,0.00733,"Central","Fairland","MD","Maryland","24031|24033","Montgomery County",5311,"maryland/fairland",4.965,-76.9525,39.0808,"CDP",17
+24739,24739,24716,24692,24146,24410,0.00093,"Central","North Potomac","MD","Maryland","24031","Montgomery County",3794,"maryland/north-potomac",6.521,-77.2385,39.0968,"CDP",18
+22282,22282,22030,21778,19391,18755,0.01144,"Central","Langley Park","MD","Maryland","24033|24031","Prince George's County",22416,"maryland/langley-park",0.994,-76.9807,38.9895,"CDP",19
+20193,20193,19948,19704,17922,16772,0.01228,"Central","Beltsville","MD","Maryland","24031|24033","Montgomery County",2802,"maryland/beltsville",7.206,-76.9204,39.0399,"CDP",20
+18530,18530,18438,18346,17475,17242,0.00499,"Central","Redland","MD","Maryland","24031","Montgomery County",2579,"maryland/redland",7.185,-77.1454,39.1329,"CDP",21
+18424,18424,18374,18324,17034,17724,0.00272,"Central","Calverton","MD","Maryland","24031|24033","Montgomery County",4026,"maryland/calverton",4.576,-76.9509,39.0581,"CDP",22
+17418,17418,17464,17412,17602,16801,-0.00263,"Central","Takoma Park","MD","Maryland","24031|24033","Montgomery County",8334,"maryland/takoma-park",2.09,-77.0023,38.9803,"City",23
+17254,17254,17099,16944,16364,15086,0.00906,"Central","Adelphi","MD","Maryland","24033|24031","Prince George's County",6343,"maryland/adelphi",2.72,-76.9668,38.9971,"CDP",24
+17149,17149,16891,16632,15111,13529,0.01527,"Central","Glenmont","MD","Maryland","24031","Montgomery County",6125,"maryland/glenmont",2.8,-77.0466,39.0704,"CDP",25
+17111,17111,16978,16846,17105,15257,0.00783,"Central","Damascus","MD","Maryland","24031","Montgomery County",1201,"maryland/damascus",14.243,-77.1968,39.271,"CDP",26
+17070,17070,15850,14631,14185,0,0.07697,"Central","Flower Hill","MD","Maryland","24031","Montgomery County",8152,"maryland/flower-hill",2.094,-77.1844,39.1684,"CDP",27
+16654,16654,16545,16436,15915,15126,0.00659,"Central","Cloverly","MD","Maryland","24031|24033","Montgomery County",1655,"maryland/cloverly",10.065,-76.9948,39.1039,"CDP",28
+15170,15170,15330,15489,15655,17403,-0.01044,"Central","White Oak","MD","Maryland","24031|24033","Montgomery County",4858,"maryland/white-oak",3.123,-76.9873,39.0442,"CDP",29
+15143,15143,14062,12980,12391,0,0.07687,"Central","Green Valley","MD","Maryland","24021|24031|24013|24027","Frederick County",886,"maryland/green-valley",17.095,-77.2403,39.3418,"CDP",30
+14354,14354,14226,14098,14812,12564,0.009,"Central","Kemp Mill","MD","Maryland","24031","Montgomery County",5721,"maryland/kemp-mill",2.509,-77.022,39.0411,"CDP",31
+13547,13547,13625,13704,14397,14647,-0.00572,"Central","Colesville","MD","Maryland","24031|24033","Montgomery County",2648,"maryland/colesville",5.115,-77.0006,39.0728,"CDP",32
+10648,10648,10482,10316,10812,8323,0.01584,"Central","Burtonsville","MD","Maryland","24031|24033","Montgomery County",1359,"maryland/burtonsville",7.837,-76.9367,39.1209,"CDP",33
+10627,10627,10737,10846,11239,12159,-0.01024,"Central","Travilah","MD","Maryland","24031","Montgomery County",667,"maryland/travilah",15.926,-77.2506,39.0593,"CDP",34
+9964,9964,9889,9831,9662,9300,0.00758,"Central","Mount Airy","MD","Maryland","24013|24021|24027|24031","Carroll County",2417,"maryland/mount-airy",4.123,-77.1538,39.3747,"Town",35
+9830,9830,9809,9789,9801,9545,0.00214,"Central","Chevy Chase","MD","Maryland","24031","Montgomery County",4075,"maryland/chevy-chase-montgomery-county",2.412,-77.0749,38.9925,"CDP",36
+9013,9013,8994,8975,9314,8749,0.00211,"Central","Leisure World","MD","Maryland","24031","Montgomery County",7990,"maryland/leisure-world",1.128,-77.0689,39.1041,"CDP",37
+8356,8356,8363,8371,8494,8462,-0.00084,"Central","South Kensington","MD","Maryland","24031","Montgomery County",3992,"maryland/south-kensington",2.093,-77.0663,39.0161,"CDP",38
+8300,8300,8386,8473,8879,9514,-0.01026,"Central","North Kensington","MD","Maryland","24031","Montgomery County",5552,"maryland/north-kensington",1.495,-77.0716,39.0392,"CDP",39
+7736,7736,7751,7766,8268,7945,-0.00194,"Central","Four Corners","MD","Maryland","24031","Montgomery County",5284,"maryland/four-corners",1.464,-77.0102,39.0233,"CDP",40
+6905,6905,6882,6859,5957,6582,0.00334,"Central","Forest Glen","MD","Maryland","24031","Montgomery County",6884,"maryland/forest-glen",1.003,-77.0451,39.0189,"CDP",41
+6650,6650,6661,6672,6754,6802,-0.00165,"West","Darnestown","MD","Maryland","24031","Montgomery County",406,"maryland/darnestown",16.382,-77.3118,39.0887,"CDP",42
+5715,5715,5720,5692,5735,4878,-0.00087,"West","Poolesville","MD","Maryland","24031","Montgomery County",1454,"maryland/poolesville",3.931,-77.4105,39.1418,"Town",43
+5570,5570,5574,5578,6239,5628,-0.00072,"Central","Ashton-Sandy Spring","MD","Maryland","24027|24031","Howard County",543,"maryland/ashton-sandy-spring",10.257,-76.9991,39.1487,"CDP",44
+5162,5162,4794,4425,4083,0,0.07676,"Central","Burnt Mills","MD","Maryland","24031|24033","Montgomery County",6182,"maryland/burnt-mills",0.835,-76.9983,39.034,"CDP",45
+5155,5155,5156,5157,5112,5169,-0.00019,"Central","Layhill","MD","Maryland","24031","Montgomery County",3244,"maryland/layhill",1.589,-77.04,39.0897,"CDP",46
+4828,4828,4915,5002,4737,6043,-0.0177,"Central","Hillandale","MD","Maryland","24033|24031","Prince George's County",2556,"maryland/hillandale",1.889,-76.9752,39.0263,"CDP",47
+4349,4349,4340,4332,4171,4230,0.00207,"Central","West Laurel","MD","Maryland","24031|24033","Montgomery County",1923,"maryland/west-laurel",2.261,-76.8923,39.1157,"CDP",48
+4251,4251,4283,4315,4577,4698,-0.00747,"Central","Friendship Heights Village","MD","Maryland","24031","Montgomery County",72051,"maryland/friendship-heights-village",0.059,-77.0898,38.9633,"CDP",49
+3776,3776,3754,3732,3925,3468,0.00586,"Central","Brookmont","MD","Maryland","24031","Montgomery County",2880,"maryland/brookmont",1.311,-77.129,38.9538,"CDP",50
+3200,3200,3152,3104,2368,2527,0.01523,"Central","Konterra","MD","Maryland","24031|24033","Montgomery County",528,"maryland/konterra",6.066,-76.8996,39.0808,"CDP",51
+2856,2856,2866,2858,2895,2834,-0.00349,"Central","Chevy Chase","MD","Maryland","24031","Montgomery County",6142,"maryland/chevy-chase-montgomery-county",0.465,-77.0832,38.9819,"Town",52
+2182,2182,2189,2196,2276,2280,-0.0032,"Central","Cabin John","MD","Maryland","24031","Montgomery County",1789,"maryland/cabin-john",1.22,-77.1638,38.974,"CDP",53
+2102,2102,2108,2102,2126,2324,-0.00285,"Central","Kensington","MD","Maryland","24031","Montgomery County",4179,"maryland/kensington",0.503,-77.0737,39.0268,"Town",54
+2020,2020,2027,2021,2048,1957,-0.00345,"Central","Chevy Chase Village","MD","Maryland","24031","Montgomery County",4810,"maryland/chevy-chase-village",0.42,-77.0793,38.9698,"Town",55
+1762,1762,1806,1850,1644,2381,-0.02436,"Central","Derwood","MD","Maryland","24031","Montgomery County",2810,"maryland/derwood",0.627,-77.1502,39.1141,"CDP",56
+1349,1349,1252,1156,1074,0,0.07748,"West","Ten Mile Creek","MD","Maryland","24031|24021","Montgomery County",233,"maryland/ten-mile-creek",5.792,-77.2982,39.2294,"CDP",57
+1224,1224,1251,1277,1653,1594,-0.02158,"Central","Spencerville","MD","Maryland","24031","Montgomery County",784,"maryland/spencerville",1.562,-76.9835,39.12,"CDP",58
+1174,1174,1177,1173,1184,1196,-0.00255,"Central","Somerset","MD","Maryland","24031","Montgomery County",4254,"maryland/somerset",0.276,-77.0963,38.9666,"Town",59
+994,994,996,994,1002,929,-0.00201,"Central","Chevy Chase View","MD","Maryland","24031","Montgomery County",3709,"maryland/chevy-chase-view",0.268,-77.0811,39.0192,"Town",60
+979,979,982,979,990,964,-0.00305,"Central","Garrett Park","MD","Maryland","24031","Montgomery County",3900,"maryland/garrett-park",0.251,-77.0935,39.0361,"Town",61
+928,928,931,929,940,945,-0.00322,"Central","Martin's Additions","MD","Maryland","24031","Montgomery County",6725,"maryland/martins-additions",0.138,-77.0692,38.9796,"Village",62
+909,909,918,927,1086,1034,-0.0098,"Central","Highland","MD","Maryland","24027|24031","Howard County",378,"maryland/highland",2.406,-76.9567,39.1872,"CDP",63
+788,788,791,790,799,759,-0.00379,"Central","Chevy Chase Section Three","MD","Maryland","24031","Montgomery County",6735,"maryland/chevy-chase-section-three",0.117,-77.0742,38.9793,"Village",64
+674,674,676,675,680,564,-0.00296,"Central","North Chevy Chase","MD","Maryland","24031","Montgomery County",5810,"maryland/north-chevy-chase",0.116,-77.0741,39.0021,"Village",65
+660,660,663,663,670,670,-0.00452,"Central","Chevy Chase Section Five","MD","Maryland","24031","Montgomery County",6168,"maryland/chevy-chase-section-five",0.107,-77.074,38.984,"Village",66
+571,571,572,569,573,332,-0.00175,"Central","Laytonsville","MD","Maryland","24031","Montgomery County",545,"maryland/laytonsville",1.047,-77.1353,39.2087,"Town",67
+499,499,500,497,503,523,-0.002,"Central","Washington Grove","MD","Maryland","24031","Montgomery County",1485,"maryland/washington-grove",0.336,-77.1745,39.1407,"Town",68
+275,275,276,275,278,256,-0.00362,"Central","Glen Echo","MD","Maryland","24031","Montgomery County",2670,"maryland/glen-echo",0.103,-77.1411,38.9682,"Town",69
+161,161,162,162,164,135,-0.00617,"Central","Brookeville","MD","Maryland","24027|24031","Howard County",1150,"maryland/brookeville",0.14,-77.0597,39.1825,"Town",70
+143,143,144,143,145,171,-0.00694,"West","Barnesville","MD","Maryland","24031","Montgomery County",292,"maryland/barnesville",0.489,-77.3761,39.2239,"Town",71
+72,72,67,62,19,0,0.07463,"Central","Lisbon","MD","Maryland","24013|24027|24031","Carroll County",49,"maryland/lisbon",1.476,-77.0705,39.3366,"CDP",72
